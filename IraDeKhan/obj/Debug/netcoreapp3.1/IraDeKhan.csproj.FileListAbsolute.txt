@@ -1,0 +1,11 @@
+D:\Projetos\olimpiadas-computacao\IraDeKhan\bin\Debug\netcoreapp3.1\IraDeKhan.exe
+D:\Projetos\olimpiadas-computacao\IraDeKhan\bin\Debug\netcoreapp3.1\IraDeKhan.deps.json
+D:\Projetos\olimpiadas-computacao\IraDeKhan\bin\Debug\netcoreapp3.1\IraDeKhan.runtimeconfig.json
+D:\Projetos\olimpiadas-computacao\IraDeKhan\bin\Debug\netcoreapp3.1\IraDeKhan.runtimeconfig.dev.json
+D:\Projetos\olimpiadas-computacao\IraDeKhan\bin\Debug\netcoreapp3.1\IraDeKhan.dll
+D:\Projetos\olimpiadas-computacao\IraDeKhan\bin\Debug\netcoreapp3.1\IraDeKhan.pdb
+D:\Projetos\olimpiadas-computacao\IraDeKhan\obj\Debug\netcoreapp3.1\IraDeKhan.csprojAssemblyReference.cache
+D:\Projetos\olimpiadas-computacao\IraDeKhan\obj\Debug\netcoreapp3.1\IraDeKhan.AssemblyInfoInputs.cache
+D:\Projetos\olimpiadas-computacao\IraDeKhan\obj\Debug\netcoreapp3.1\IraDeKhan.AssemblyInfo.cs
+D:\Projetos\olimpiadas-computacao\IraDeKhan\obj\Debug\netcoreapp3.1\IraDeKhan.dll
+D:\Projetos\olimpiadas-computacao\IraDeKhan\obj\Debug\netcoreapp3.1\IraDeKhan.pdb

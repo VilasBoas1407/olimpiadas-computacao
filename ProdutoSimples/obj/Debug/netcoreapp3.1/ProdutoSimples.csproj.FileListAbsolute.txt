@@ -1,0 +1,11 @@
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.exe
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.deps.json
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.runtimeconfig.json
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.runtimeconfig.dev.json
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.dll
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\bin\Debug\netcoreapp3.1\ProdutoSimples.pdb
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.csprojAssemblyReference.cache
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.AssemblyInfoInputs.cache
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.AssemblyInfo.cs
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.dll
+D:\Projetos\olimpiadas-computacao\ProdutoSimples\obj\Debug\netcoreapp3.1\ProdutoSimples.pdb

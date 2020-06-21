@@ -1,0 +1,11 @@
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\bin\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.exe
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\bin\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.deps.json
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\bin\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.runtimeconfig.json
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\bin\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.runtimeconfig.dev.json
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\bin\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.dll
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\bin\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.pdb
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\obj\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.csprojAssemblyReference.cache
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\obj\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.AssemblyInfoInputs.cache
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\obj\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.AssemblyInfo.cs
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\obj\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.dll
+D:\Projetos\olimpiadas-computacao\ParesImparesNegativosInteiros\obj\Debug\netcoreapp3.1\ParesImparesNegativosInteiros.pdb

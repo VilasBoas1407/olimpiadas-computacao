@@ -1,0 +1,10 @@
+D:\Projetos\olimpiadas-computacao\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.exe
+D:\Projetos\olimpiadas-computacao\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.deps.json
+D:\Projetos\olimpiadas-computacao\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.runtimeconfig.json
+D:\Projetos\olimpiadas-computacao\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.runtimeconfig.dev.json
+D:\Projetos\olimpiadas-computacao\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.dll
+D:\Projetos\olimpiadas-computacao\NumerosImpares\bin\Debug\netcoreapp3.1\NumerosImpares.pdb
+D:\Projetos\olimpiadas-computacao\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.AssemblyInfoInputs.cache
+D:\Projetos\olimpiadas-computacao\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.AssemblyInfo.cs
+D:\Projetos\olimpiadas-computacao\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.dll
+D:\Projetos\olimpiadas-computacao\NumerosImpares\obj\Debug\netcoreapp3.1\NumerosImpares.pdb
